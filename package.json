@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "not-a-proxy-l"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
