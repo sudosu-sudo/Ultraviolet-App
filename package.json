@@ -1,5 +1,5 @@
 {
-  "name": "2130571263058912630598pp",
+  "name": "safe",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
   "type": "module",
@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "not-a-proxy-l"
+    "not-a-prxy-l"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
